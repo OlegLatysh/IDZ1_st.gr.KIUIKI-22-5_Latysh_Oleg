@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$dbname = 'lb_pdo_films'; // Назва БД
+$dbname = 'lb_pdo_films'; 
 $username = 'root';
 $password = '';
 
